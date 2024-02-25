@@ -1,4 +1,4 @@
-<div style="font-family: monospace; white-space: pre-wrap;">
+<pre>
   _   _                  _                 _     _ _             _  
  | | | | _____      ____| |_   _    __   _(_)___(_) |_ ___  _ __| |
  | |_| |/ _ \ \ /\ / / _` | | | |   \ \ / / / __| | __/ _ \| '__| |
@@ -7,7 +7,6 @@
                            |___/|/                                  
 
 <hr>
-
 <div style="font-weight: bold;">+-+-+-+
 |B|i|o|
 +-+-+-+</div>
@@ -18,6 +17,7 @@ that I can use in my work or personal projects.👨🏼‍💻
 You can find out more about me on my fancy ✦ <a href="https://www.piazzadav.com" style="font-weight: bold;">website</a> ✦
 Written in: <span style="font-weight: bold;">| Django | AWS | PostgreSQL | HTML | CSS | JS | Bootstrap |</span>
 
+<hr>
 <div style="font-weight: bold;">+-+-+-+-+-+-+-+ +-+-+-+-+-+
 |P|r|o|f|i|l|e| |s|t|a|t|s|
 +-+-+-+-+-+-+-+ +-+-+-+-+-+</div>
@@ -43,7 +43,8 @@ Written in: <span style="font-weight: bold;">| Django | AWS | PostgreSQL | HTML 
 ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 0.01%
 
 
-<span style="font-weight: bold;">Last update:</span> 25/02/2024</div>
+<span style="font-weight: bold;">Last update:</span> 25/02/2024
+</pre>
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=PiazzaDav%2Fgithub-visitors-badge&countColor=%2337d67a)
 
