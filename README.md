@@ -10,7 +10,7 @@
 <div style="font-weight: bold;">+-+-+-+
 |B|i|o|
 +-+-+-+</div>
-My name is <span style="font-weight: bold;">$${\color{red}Davide}$$</span>, I live to code and code to live.
+My name is ![#f03c15](Davide) `#f03c15`, I live to code and code to live.
 I love to create things and learn new technologies
 that I can use in my work or personal projects.👨🏼‍💻
 
