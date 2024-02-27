@@ -43,7 +43,7 @@ Written in: <span style="font-weight: bold;">| Django | AWS | PostgreSQL | HTML 
 ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 0.01%
 
 
-<span style="font-weight: bold;">Last update:</span> 26/02/2024
+<span style="font-weight: bold;">Last update:</span> 27/02/2024
 </pre>
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=PiazzaDav%2Fgithub-visitors-badge&countColor=%2337d67a)
