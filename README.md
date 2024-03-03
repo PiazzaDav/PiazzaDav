@@ -26,15 +26,15 @@ Written in: <span style="font-weight: bold;">| Django | AWS | PostgreSQL | Redis
 
 <span style="font-weight: bold;">- Leading Languages in Repositories -</span>
 <span style="font-weight: bold;">JavaScript:</span>
-████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 32.44%
+████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 32.43%
 <span style="font-weight: bold;">CSS:</span>
 ██████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 24.61%
 <span style="font-weight: bold;">HTML:</span>
 ████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 15.24%
 <span style="font-weight: bold;">Python:</span>
-███▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 13.99%
+████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 14.0%
 <span style="font-weight: bold;">SCSS:</span>
-██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 7.08%
+██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 7.07%
 <span style="font-weight: bold;">Less:</span>
 ██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 6.61%
 <span style="font-weight: bold;">Shell:</span>
