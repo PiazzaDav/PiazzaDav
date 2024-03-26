@@ -32,7 +32,7 @@ Written in: <span style="font-weight: bold;">| Django | AWS | PostgreSQL | Redis
 <span style="font-weight: bold;">HTML:</span>
 ████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 15.29%
 <span style="font-weight: bold;">Python:</span>
-████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 14.90%
+████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 14.91%
 <span style="font-weight: bold;">SCSS:</span>
 ██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  6.95%
 <span style="font-weight: bold;">Less:</span>
