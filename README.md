@@ -26,23 +26,23 @@ Written in: <span style="font-weight: bold;">| Django | AWS | PostgreSQL | Redis
 
 <span style="font-weight: bold;">- Leading Languages in Repositories -</span>
 <span style="font-weight: bold;">Python:</span>
-████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 17.86%
+██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  9.10%
 <span style="font-weight: bold;">JavaScript:</span>
-████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 30.84%
+█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 19.83%
 <span style="font-weight: bold;">CSS:</span>
-██████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 23.54%
+█████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 36.90%
 <span style="font-weight: bold;">HTML:</span>
-████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 14.78%
+███████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 27.59%
 <span style="font-weight: bold;">SCSS:</span>
-██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  6.71%
+█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  3.39%
 <span style="font-weight: bold;">Less:</span>
-██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  6.27%
+█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  3.17%
 <span style="font-weight: bold;">Procfile:</span>
-▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  0.01%
+▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  0.00%
 
 
 <hr>
-<span style="font-weight: bold;">Last update:</span> 13/05/2024
+<span style="font-weight: bold;">Last update:</span> 14/05/2024
 </pre>
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=PiazzaDav%2Fgithub-visitors-badge&countColor=%2337d67a)
