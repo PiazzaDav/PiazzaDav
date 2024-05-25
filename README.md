@@ -21,28 +21,30 @@ Written in: <span style="font-weight: bold;">| Django | AWS | PostgreSQL | Redis
 <div style="font-weight: bold;">+-+-+-+-+-+-+-+ +-+-+-+-+-+
 |P|r|o|f|i|l|e| |s|t|a|t|s|
 +-+-+-+-+-+-+-+ +-+-+-+-+-+</div>
-<span style="font-weight: bold;">Nr. repositories:</span> 5 🔏
+<span style="font-weight: bold;">Nr. repositories:</span> 7 🔏
 <span style="font-weight: bold;">Total stars:</span>      0 ⭐️
 
 <span style="font-weight: bold;">- Leading Languages in Repositories -</span>
 <span style="font-weight: bold;">Python:</span>
-██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  9.15%
+██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  9.26%
 <span style="font-weight: bold;">JavaScript:</span>
-█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 19.87%
+█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 19.73%
 <span style="font-weight: bold;">CSS:</span>
-█████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 36.98%
+█████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 36.78%
 <span style="font-weight: bold;">HTML:</span>
-███████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 27.42%
+███████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 27.45%
 <span style="font-weight: bold;">SCSS:</span>
-█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  3.40%
+█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  3.38%
 <span style="font-weight: bold;">Less:</span>
-█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  3.18%
+█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  3.16%
 <span style="font-weight: bold;">Procfile:</span>
 ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  0.00%
+<span style="font-weight: bold;">C#:</span>
+▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  0.23%
 
 
 <hr>
-<span style="font-weight: bold;">Last update:</span> 24/05/2024
+<span style="font-weight: bold;">Last update:</span> 25/05/2024
 </pre>
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=PiazzaDav%2Fgithub-visitors-badge&countColor=%2337d67a)
