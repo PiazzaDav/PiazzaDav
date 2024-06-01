@@ -30,9 +30,9 @@ Written in: <span style="font-weight: bold;">| Django | AWS | PostgreSQL | Redis
 <span style="font-weight: bold;">JavaScript:</span>
 █████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 19.93%
 <span style="font-weight: bold;">CSS:</span>
-█████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 37.17%
+█████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 37.16%
 <span style="font-weight: bold;">HTML:</span>
-██████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 25.54%
+██████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 25.55%
 <span style="font-weight: bold;">SCSS:</span>
 █▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  3.41%
 <span style="font-weight: bold;">Less:</span>
@@ -44,7 +44,7 @@ Written in: <span style="font-weight: bold;">| Django | AWS | PostgreSQL | Redis
 
 
 <hr>
-<span style="font-weight: bold;">Last update:</span> 31/05/2024
+<span style="font-weight: bold;">Last update:</span> 01/06/2024
 </pre>
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=PiazzaDav%2Fgithub-visitors-badge&countColor=%2337d67a)
