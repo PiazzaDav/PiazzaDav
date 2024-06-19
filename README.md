@@ -26,13 +26,13 @@ Written in: <span style="font-weight: bold;">| Django | AWS | PostgreSQL | Redis
 
 <span style="font-weight: bold;">- Leading Languages in Repositories -</span>
 <span style="font-weight: bold;">Python:</span>
-███▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 11.80%
+███▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 11.86%
 <span style="font-weight: bold;">HTML:</span>
-██████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 25.45%
+██████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 25.43%
 <span style="font-weight: bold;">JavaScript:</span>
-█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 19.88%
+█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 19.87%
 <span style="font-weight: bold;">CSS:</span>
-█████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 36.22%
+█████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 36.19%
 <span style="font-weight: bold;">SCSS:</span>
 █▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  3.32%
 <span style="font-weight: bold;">Less:</span>
@@ -44,7 +44,7 @@ Written in: <span style="font-weight: bold;">| Django | AWS | PostgreSQL | Redis
 
 
 <hr>
-<span style="font-weight: bold;">Last update:</span> 18/06/2024
+<span style="font-weight: bold;">Last update:</span> 19/06/2024
 </pre>
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=PiazzaDav%2Fgithub-visitors-badge&countColor=%2337d67a)
