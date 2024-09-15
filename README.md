@@ -14,29 +14,29 @@ My name is <span style="font-weight: bold;">Davide</span>, I live to code and co
 I love to create things and learn new technologies
 that I can use in my work or personal projects.👨🏼‍💻
 
-You can find out more about me on my ✦ <a href="https://www.piazzadav.com" style="font-weight: bold;">website</a> ✦
+You can find out more about me on my fancy ✦ <a href="https://www.piazzadav.com" style="font-weight: bold;">website</a> ✦
 Written in: <span style="font-weight: bold;">| Django | AWS | PostgreSQL | Redis | Celery | HTML | CSS | JS | Bootstrap |</span>
 
 <hr>
 <div style="font-weight: bold;">+-+-+-+-+-+-+-+ +-+-+-+-+-+
 |P|r|o|f|i|l|e| |s|t|a|t|s|
 +-+-+-+-+-+-+-+ +-+-+-+-+-+</div>
-<span style="font-weight: bold;">Nr. repositories:</span> 9 🔏
+<span style="font-weight: bold;">Nr. repositories:</span> 7 🔏
 <span style="font-weight: bold;">Total stars:</span>      0 ⭐️
 
 <span style="font-weight: bold;">- Leading Languages in Repositories -</span>
 <span style="font-weight: bold;">Python:</span>
-███▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 11.86%
+███▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 11.41%
 <span style="font-weight: bold;">HTML:</span>
-██████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 25.43%
+██████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 25.56%
 <span style="font-weight: bold;">JavaScript:</span>
-█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 19.87%
+█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 19.97%
 <span style="font-weight: bold;">CSS:</span>
-█████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 36.19%
+█████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 36.38%
 <span style="font-weight: bold;">SCSS:</span>
-█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  3.32%
+█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  3.33%
 <span style="font-weight: bold;">Less:</span>
-█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  3.10%
+█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  3.11%
 <span style="font-weight: bold;">Procfile:</span>
 ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  0.00%
 <span style="font-weight: bold;">C#:</span>
@@ -44,7 +44,7 @@ Written in: <span style="font-weight: bold;">| Django | AWS | PostgreSQL | Redis
 
 
 <hr>
-<span style="font-weight: bold;">Last update:</span> 24/06/2024
+<span style="font-weight: bold;">Last update:</span> 15/09/2024
 </pre>
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=PiazzaDav%2Fgithub-visitors-badge&countColor=%2337d67a)
