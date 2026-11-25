@@ -14,7 +14,6 @@ My name is <span style="font-weight: bold;">Davide</span>, I live to code and co
 I love to create things and learn new technologies
 that I can use in my work or personal projects.👨🏼‍💻
 
-You can find out more about me on my fancy ✦ <a href="https://www.piazzadav.com" style="font-weight: bold;">website</a> ✦
 Written in: <span style="font-weight: bold;">| Django | AWS | PostgreSQL | Redis | Celery | HTML | CSS | JS | Bootstrap |</span>
 
 <hr>
